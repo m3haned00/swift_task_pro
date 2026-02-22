@@ -1,16 +1,22 @@
-# swift_task_pro
+# 🚀 Swift Task Pro - Premium Flutter Management
 
-A new Flutter project.
+Swift Task Pro is a high-performance, modern task management application built with **Flutter**. It features a sophisticated **Material 3 UI**, professional gradients, and a robust offline database architecture.
 
-## Getting Started
+## ✨ Key Features
+* **Modern UI/UX**: Professional Slivers, glassmorphism effects, and dynamic gradients.
+* **Persistence**: Full offline support using **SQLite** (sqflite).
+* **State Management**: Optimized data flow using the **Provider** pattern.
+* **Smart Analytics**: Real-time progress tracking and task statistics.
+* **Productivity Tools**: Priority-based sorting, categories, and full CRUD operations.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework**: Flutter (Stable)
+* **Language**: Dart
+* **Database**: SQLite
+* **State Management**: Provider
+* **UI Components**: Material 3, Google Fonts
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/m3haned00/swift_task_pro.git](https://github.com/m3haned00/swift_task_pro.git)
