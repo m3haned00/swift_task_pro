@@ -4,10 +4,10 @@ Swift Task Pro is a high-performance, modern task management application built w
 
 ## ✨ Tech Preview
 <p align="center">
-  <img src="لقطة شاشة 2026-02-23 013204.png" width="200" alt="App Screenshot 1">
-  <img src="لقطة شاشة 2026-02-23 013225.png" width="200" alt="App Screenshot 2">
-  <img src="لقطة شاشة 2026-02-23 013409.png" width="200" alt="App Screenshot 3">
-  <img src="لقطة شاشة 2026-02-23 013508.png" width="200" alt="App Screenshot 4">
+  <img src="add_task.png" width="200" alt="App Screenshot 1">
+  <img src="add_task.png1" width="200" alt="App Screenshot 2">
+  <img src="add_task.png2" width="200" alt="App Screenshot 3">
+  <img src="add_task.png3" width="200" alt="App Screenshot 4">
 </p>
 
 ## 🛠️ Key Features
@@ -27,5 +27,6 @@ Swift Task Pro is a high-performance, modern task management application built w
 ## 💻 How to Run
 ```bash
 git clone [https://github.com/m3haned00/swift_task_pro.git](https://github.com/m3haned00/swift_task_pro.git)
+cd swift_task_pro
 flutter pub get
 flutter run
